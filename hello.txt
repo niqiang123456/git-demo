@@ -13,5 +13,8 @@ hello chen hello git!
 hello chen hello git!
 hello chen hello git!
 hello chen hello git!
+<<<<<<< HEAD
 hello chen hello git!222222
-
+=======
+hello chen hello git!22222
+>>>>>>> hot-fix
